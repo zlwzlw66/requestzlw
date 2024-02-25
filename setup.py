@@ -98,8 +98,8 @@ PACKAGE = "request2"
 NAME = PACKAGE
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Raphael Moral"
-AUTHOR_EMAIL = "raphamoraleng@gmail.com"
-URL = "https://github.com/raphamoral/request2"
+AUTHOR_EMAIL = "1947340072@qq.com"
+URL = "https://github.com/zlwzlw66/requestzlw"
 VERSION = __import__(PACKAGE).__version__
 
 setup(
